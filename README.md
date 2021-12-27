@@ -25,11 +25,11 @@ Click on install then click the activation link
 
 == Screenshots ==
 
-![Image-1](https://github.com/patelmohip9/gutenberg_slider_block//assets/Screenshot-1.png?raw=true)
-![Image-2](https://github.com/patelmohip9/gutenberg_slider_block//assets/Screenshot-2.png?raw=true)
-![Image-3](https://github.com/patelmohip9/gutenberg_slider_block//assets/Screenshot-3.png?raw=true)
-![Image-4](https://github.com/patelmohip9/gutenberg_slider_block//assets/Screenshot-4.png?raw=true)
-![Image-5](https://github.com/patelmohip9/gutenberg_slider_block//assets/Screenshot-5.png?raw=true)
+![Image-1](https://github.com/patelmohip9/gutenberg_slider_block/blob/main/assets/Screenshot-1.png?raw=true)
+![Image-2](https://github.com/patelmohip9/gutenberg_slider_block/blob/main/assets/Screenshot-2.png?raw=true)
+![Image-3](https://github.com/patelmohip9/gutenberg_slider_block/blob/main/assets/Screenshot-3.png?raw=true)
+![Image-4](https://github.com/patelmohip9/gutenberg_slider_block/blob/main/assets/Screenshot-4.png?raw=true)
+![Image-5](https://github.com/patelmohip9/gutenberg_slider_block/blob/main/assets/Screenshot-5.png?raw=true)
 
 
 == Changelog ==
