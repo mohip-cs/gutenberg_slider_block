@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       GutenSlider Block
- * Description:       Example block written with ESNext standard and JSX support – build step required.
+ * Description:       GutenSlider block is a custom Gutenberg Block that provides multiple images slider with text.
  * Requires at least: 5.8
  * Requires PHP:      7.0
  * Version:           1.0.0
